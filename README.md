@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Llarg94
-- 👀 I’m interested in coding and IT world.
-- 🌱 I’m currently learning java, react and Python
-- 💞️ I’m looking to collaborate on any project that can give me more xp.
+- 👀 I’m interested in coding and IT world, and looking for job opportunities to start my carreer.
+- 🌱 I’m currently learning and working with Java. Learning Python, JavaScript and react.
+- 💞️ I’m looking to collaborate on any project that can give me more xp and constructs me as a professional.
 - 📫 Reach me by email albertllarg1@gmail.com
 - 😄 Pronouns: Llarg
-- ⚡ Fun fact: After 10 years of dedication and hard work within the transport and logistic world, I decided to improve my life by coding and learning. 
+- ⚡ Fun fact: After 10 years of dedication and hard work within the transport and logistics world, and after working in extremely stressful conditions in several transport companies, dealing with customers, supporting them, talking with drivers, handling international shipments and working with slow Spanish customs procedures, I decided to move forward and improve my life by coding. 
 
 <!---
 Llarg94/Llarg94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
