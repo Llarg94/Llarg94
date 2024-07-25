@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and IT world, and looking for job opportunities to start my career.
 - 🌱 I’m currently learning and working with Java. Learning Python, JavaScript and react.
 - 🧑‍🎓 Professional
-- 💞️ I’m looking to collaborate on any project that can give me more xp and constructs me as a professional.
+- 💞️ I’m looking to collaborate on any project that can give me more xp and build me as a professional.
 - 📫 Reach me by email albertllarg1@gmail.com
 - 😄 Pronouns: Llarg
 - ⚡ Fun fact: 
