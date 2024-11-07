@@ -6,7 +6,8 @@
 - 📫 Reach me by email albertllarg1@gmail.com
 - 😄 Pronouns: Llarg
 - ⚡ Fun fact: 
-    After 10 years of dedication and hard work within the transport and logistics world, and after working in extremely stressful conditions in several transport             companies, dealing with customers, supporting them, talking with drivers, handling international shipments and working with slow Spanish customs procedures, I            decided to move forward and improve my life by coding.
+    After 10 years of dedication and hard work within the transport and logistics world, and after working in extremely stressful
+    conditions in several transport companies, dealing with customers, supporting them, talking with drivers, handling international          shipments and working with slow Spanish customs procedures, I decided to move forward and improve my life by coding.
 - 🏠 Settled in Trondheim, Norway
 - 🪐 Act like a gentleman, dream like a kid
 
