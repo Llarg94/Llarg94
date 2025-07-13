@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Albert Llargués
-- 👀 I’m interested in coding and IT world, and looking for job opportunities to start my career.
-- 🌱 I’m currently learning and working with Java. Learning Python, JavaScript and react.
-- 🧑‍🎓 Professional
-- 💞️ I’m looking to collaborate on any project that can give me more xp and build me as a professional.
+- 👀 I love coding and tech world
+- 💼 Looking for jobs as a junior developer to start my professional career.
+- 🌱 Learning and working with Java, Python, JavaScript and React.
+- 🧑‍🎓 Detailist guy with huge xp into the logistics world
+- 💞️ I’m looking to collaborate on any project that can give me more xp and boost my professional skills.
 - 📫 Reach me by email albertllarg1@gmail.com
-- 😄 My friends call me Llarg
+- 😄 My friends call me "Llarg"
 - 🏠 Settled in Trondheim, Norway
 - 🪐 Act like a gentleman, dream like a kid
 
